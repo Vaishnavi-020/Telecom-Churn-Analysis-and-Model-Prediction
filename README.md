@@ -120,6 +120,8 @@ The Power BI dashboard provides a visual representation of key churn metrics, en
 - Churn Comaprision by heavy users VS normal users
 - Customer Usage Patterns
 
+![Telecom Churn Dashboard](Telecom-Churn-Dashboard.png)
+
 ## 📚 Future Improvements
 
 Improve model recall for churn prediction using advanced models (XGBoost, GridSearchCV).
